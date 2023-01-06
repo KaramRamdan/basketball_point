@@ -1,6 +1,6 @@
 # basketball_point
 
-A old Flutter project Using[flutter ,bloc].
+A old Flutter project .
 
 
 
